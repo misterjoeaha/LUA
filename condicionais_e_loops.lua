@@ -12,3 +12,8 @@ if(d>=0) then
 else
   print("Nao possui raizes reais");
 end
+
+-- loops
+  for i = 1,10 do -- comece em 1 e va ete 10
+    print(i)
+  end
