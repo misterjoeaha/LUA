@@ -73,6 +73,6 @@ for i = 1 , #funcs do
 
 end 
 
---for i = 1, #res do  -- imprime os valores contidos dentro do vetor res
+--for i = 1, #res do
 --	print(i,res[i])
 --end
